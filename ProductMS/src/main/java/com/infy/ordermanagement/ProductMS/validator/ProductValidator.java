@@ -25,7 +25,7 @@ public static void validateProduct(ProductDTO product) throws ProductMSException
 	
 	public static boolean validateName(String name)
 	{
-		String regex = "([A-Za-z]+([ ][A-Za-z]+)*){1,100}";
+		String regex = "([A-Za-z]+([\\s][A-Za-z]+)*){1,100}";
 		
 		if(name.matches(regex))
 		{
@@ -36,7 +36,7 @@ public static void validateProduct(ProductDTO product) throws ProductMSException
 	
 	public static boolean validateDescription(String desc)
 	{
-		String regex = "([A-Za-z]+([ ][A-Za-z]+)*){1,500}";
+		String regex = "([A-Za-z]+([\\s][A-Za-z]+)*){1,500}";
 		
 		if(desc.matches(regex))
 		{
