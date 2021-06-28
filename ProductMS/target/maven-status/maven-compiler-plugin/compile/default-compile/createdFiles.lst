@@ -1,0 +1,14 @@
+com\infy\ordermanagement\ProductMS\entity\Product.class
+com\infy\ordermanagement\ProductMS\utility\CustomPK.class
+com\infy\ordermanagement\ProductMS\service\ProductServiceImpl.class
+com\infy\ordermanagement\ProductMS\utility\LoggingAspect.class
+com\infy\ordermanagement\ProductMS\exception\ProductMSException.class
+com\infy\ordermanagement\ProductMS\entity\SubscribedProduct.class
+com\infy\ordermanagement\ProductMS\repository\SubscribedProductRepository.class
+com\infy\ordermanagement\ProductMS\service\ProductService.class
+com\infy\ordermanagement\ProductMS\validator\ProductValidator.class
+com\infy\ordermanagement\ProductMS\dto\SubscribedProductDTO.class
+com\infy\ordermanagement\ProductMS\controller\ProductAPI.class
+com\infy\ordermanagement\ProductMS\App.class
+com\infy\ordermanagement\ProductMS\dto\ProductDTO.class
+com\infy\ordermanagement\ProductMS\repository\ProductRepository.class

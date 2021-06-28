@@ -1,0 +1,17 @@
+
+Rcom.infy.ordermanagement.ProductMS.dto.ProductDTO#getSellerId()Ljava/lang/Integer;¶
+õC:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/dto/ProductDTO.java8 8("1*Ü
+1¶
+õC:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/dto/ProductDTO.java9	 9(ê
+ç
+¶
+õC:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/dto/ProductDTO.java9	 9(
+%0java.lang.Integer"__id*C*A3
+1com.infy.ordermanagement.ProductMS.dto.ProductDTO"
+
+sellerId"ƒ
+¶
+õC:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/dto/ProductDTO.java9 9(
+
+%0java.lang.IntegerB53
+1com.infy.ordermanagement.ProductMS.dto.ProductDTO

@@ -1,0 +1,59 @@
+
+ïcom.infy.ordermanagement.ProductMS.controller.ProductAPI#updateStock(Ljava/lang/Integer;Ljava/lang/Integer;)Lorg/springframework/http/ResponseEntity;≠
+¢C:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/controller/ProductAPI.javac  c(+"7*ó
+5≠
+¢C:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/controller/ProductAPI.javaf f(;"·
+≠
+¢C:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/controller/ProductAPI.javaf f(;/
+-
+%3'org.springframework.http.ResponseEntity*Ã
+
+6≠
+¢C:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/controller/ProductAPI.javae e(FÒ
+Ó
+≠
+¢C:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/controller/ProductAPI.javae e(F
+statusjava.lang.Boolean"__id*
+
+%1java.lang.BooleanÏ
+È
+≠
+¢C:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/controller/ProductAPI.javaf& f(9)
+%2#org.springframework.http.HttpStatus"__id*
+""ãà
+≠
+¢C:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/controller/ProductAPI.javaf f(-
+%3'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntity†
+ù
+≠
+¢C:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/controller/ProductAPI.javaf
+ f(:
+%4"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*/
+-
+%3'org.springframework.http.ResponseEntity*
+
+statusjava.lang.Boolean*+
+)
+%2#org.springframework.http.HttpStatus*
+5*ù
+7≠
+¢C:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/controller/ProductAPI.javae e("Ã
+…
+≠
+¢C:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/controller/ProductAPI.javae e("?
+%09com.infy.ordermanagement.ProductMS.service.ProductService"__id*P*N:
+8com.infy.ordermanagement.ProductMS.controller.ProductAPI"
+productServiceìê
+≠
+¢C:/Users/Ramya/Downloads/reskill-OMSproject-master/reskill-OMSproject-master/ProductMS/src/main/java/com/infy/ordermanagement/ProductMS/controller/ProductAPI.javae e(E
+%1java.lang.Boolean"Ücom.infy.ordermanagement.ProductMS.service.ProductService#updateStockOfProd(Ljava/lang/Integer;Ljava/lang/Integer;)Ljava/lang/Boolean;*A
+?
+%09com.infy.ordermanagement.ProductMS.service.ProductService*
+
+prodIdjava.lang.Integer*
+
+quantityjava.lang.Integer29updateStockOfProd(Ljava/lang/Integer;Ljava/lang/Integer;)*
+6:
+prodIdjava.lang.Integer:
+quantityjava.lang.IntegerB<:
+8com.infy.ordermanagement.ProductMS.controller.ProductAPI
